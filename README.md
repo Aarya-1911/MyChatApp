@@ -28,12 +28,12 @@ Welcome Page
 
 <img width="700" height="700" alt="Screenshot 2025-10-07 000440" src="https://github.com/user-attachments/assets/0f59423f-1295-435d-86ad-e27c75ff6e88" />
 
-
 Rooms/Chats
 
 <img width="700" height="700" alt="Screenshot 2025-10-07 000327" src="https://github.com/user-attachments/assets/838b0a92-ac5a-4fb4-b721-51039e1f0f67" />
 
 
+
 Dashboard
 
-<img width="1413" height="922" alt="Screenshot 2025-10-07 000347" src="https://github.com/user-attachments/assets/2998e2b7-3d64-4bc3-8d7b-232e37d82b7c" />
+<img width="700" height="700" alt="Screenshot 2025-10-07 000347" src="https://github.com/user-attachments/assets/2998e2b7-3d64-4bc3-8d7b-232e37d82b7c" />
